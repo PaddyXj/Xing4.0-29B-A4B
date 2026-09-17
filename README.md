@@ -45,7 +45,7 @@
 
 # News
 - 2026-09-17 Open-sourced **Xing4.0-29B-A4B** [[HuggingFace Hub](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B) | [ModelScope](https://modelscope.cn/models/XingChen-AGI/Xing4.0-29B-A4B) | [Modelers](https://modelers.cn/models/XingChen-AGI/Xing4.0-29B-A4B)]
-- 2026-09-17 Open-sourced **Xing4.0-29B-A4B-FP8** [[HuggingFace Hub](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B-FP8) | [ModelScope](https://modelscope.cn/models/XingChen-AGI/Xing4.0-29B-A4B-FP8) | [Modelers](https://modelscope.cn/models/XingChen-AGI/Xing4.0-29B-A4B-FP8)] and **Xing4.0-29B-A4B-GGUF** [[HuggingFace Hub](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B-GGUF) | [ModelScope](https://modelscope.cn/models/XingChen-AGI/Xing4.0-29B-A4B-GGUF) | [Modelers](https://modelscope.cn/models/XingChen-AGI/Xing4.0-29B-A4B-GGUF)]
+- 2026-09-17 Open-sourced **Xing4.0-29B-A4B-FP8** [[HuggingFace Hub](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B-FP8) | [ModelScope](https://modelers.cn/models/XingChen-AGI/Xing4.0-29B-A4B-FP8) | [Modelers](https://modelscope.cn/models/XingChen-AGI/Xing4.0-29B-A4B-FP8)] and **Xing4.0-29B-A4B-GGUF** [[HuggingFace Hub](https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B-GGUF) | [ModelScope](https://modelscope.cn/models/XingChen-AGI/Xing4.0-29B-A4B-GGUF) | [Modelers](https://modelers.cn/models/XingChen-AGI/Xing4.0-29B-A4B-GGUF)]
 
 # Model
 The model architecture of **Xing4.0-29B-A4B** is as follows:
